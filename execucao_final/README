@@ -6,3 +6,5 @@ Este diretório contém o código referente ao algoritmo LDA para a análise de 
 
 Os arquivos gerados a partir da Scopus não foram dispnibilizados pois de propriedade da Scopus.
 Poderão ser gerados selecionando apenas as Universidades citadas acima e para a escola de Engenharia.
+
+A geração dos dashboards e carga no BigQuery foram realizados utilizando uma conta de teste na Plataforma Google Cloud e podem ser reproduzidos utilizando as instruções mencionadas no documento de tese.
